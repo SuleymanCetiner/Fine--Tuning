@@ -15,7 +15,12 @@ My dataset and model are different from original source.
 Original source is : https://www.tensorflow.org/tutorials/images/transfer_learning
 
 I changed lots of things and trained a little bit.You can train more if you want. 
-By the way, i interrupt training at the second epoch in intention to show that it works
+By the way, i interrupt training at the second epoch in intention to show that it works.
+
+
+
 ![image](https://user-images.githubusercontent.com/38746955/136469148-fbc0e2e5-995f-4b1e-baf0-c186cce72f6e.png)
+
+  ----- Some results of tests ----- 
 
 Have a nice day .... 
